@@ -43,9 +43,10 @@ Key Insights & Findings
    Product Performance: Headphones and Keyboard are the top-selling products. However, there is a significant spike in Monitor sales in 2024 compared to 2023.
 
 How to Access the Report
+
    Download the `Sales_analysis_dashboard.xlsx` file from this repository.
    Open it in Microsoft Excel (ensure you enable editing/content if prompted).
-   Use the **Category** slicer on the top right to interact with the data and watch the charts and KPIs update dynamically.
+   Use the Category slicer on the top right to interact with the data and watch the charts and KPIs update dynamically.
 
 Conclusion
 
