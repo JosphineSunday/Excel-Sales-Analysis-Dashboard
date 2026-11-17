@@ -48,4 +48,5 @@ How to Access the Report
    Use the **Category** slicer on the top right to interact with the data and watch the charts and KPIs update dynamically.
 
 Conclusion
+
 This project demonstrates practical Excel skills for data analysis, including building dynamic models, writing complex lookup and date formulas, and designing a professional, interactive user interface.
